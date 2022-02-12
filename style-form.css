@@ -1,0 +1,119 @@
+.body {
+    width: 1000px;
+    background-color: #11cfcf;
+    height: 500px ;
+    margin: auto 0 ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.float-container {
+    background-color: #11cfcf;
+}
+
+.float-child {
+    background-color: #11cfcf;
+    width: 500px;
+    float: left;
+    height:500px;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.forma {
+    width: 90%;
+    margin-left: 10px;
+}
+
+::placeholder {
+    color: #c9c9c9;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+}
+
+.name {
+    border-radius: 3px;
+    border: none;
+    width: 446px;
+    margin-bottom: 10px;
+    height: 40px;
+}
+
+.email {
+    border-radius: 3px;
+    border: none;
+    width: 446px;
+    margin-bottom: 10px;
+    height: 40px;
+}
+
+.company {
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 216px;
+}
+
+.phone {
+    border-radius: 3px;
+    border: none;
+    margin-bottom: 10px;
+    height: 40px;
+    float: right;
+    width: 216px;
+}
+
+.message {
+    width: 446px; 
+    height: 100px;
+    resize: none;
+    margin-bottom: 12px;
+    border: none;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #fdec3e;
+    width: 160px; height: 30px;
+    border-radius: 5px;
+    text-align: center; 
+    font-style:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: #a19a1f;
+    font-weight: 550;
+    font-size:13px;
+    border: none;
+    float: right;
+}
+
+.contacts {
+    margin-top: 70px;
+    margin-left: 40px;
+}
+
+h2 {
+    color: #92f7f4;
+    font-weight: 300;
+    margin-bottom: 0%;
+}
+
+p {
+    color: #70e4e8;
+}
+
+ul {
+    color: #63fcfc;
+}
+
+.maps {
+    color: #b8df84;
+    margin-top: 0%;
+}
+
+ul {
+    padding-inline-start: 16px;
+}
